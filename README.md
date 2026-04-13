@@ -176,15 +176,15 @@ Features:
 - [Privacy Policy](https://forge-dynamics-executive-crew.vercel.app/legal/privacy)
 - [Terms of Service](https://forge-dynamics-executive-crew.vercel.app/legal/terms)
 
-Questions: privacy@forgedynamics.dev
+Questions: privacy@forgedynamicsai.com
 
 ---
 
 ## Contact
 
 - X/Twitter: [@dynamicforgedev](https://x.com/dynamicforgedev)
-- Legal: legal@forgedynamics.dev
-- Privacy: privacy@forgedynamics.dev
+- Legal: legal@forgedynamicsai.com
+- Privacy: privacy@forgedynamicsai.com
 
 ---
 
